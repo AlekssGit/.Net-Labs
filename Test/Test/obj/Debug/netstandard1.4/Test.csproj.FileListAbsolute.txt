@@ -1,0 +1,12 @@
+C:\Sasha\Eltech\.NET Labs\Test\Test\bin\Debug\netstandard1.4\Test.deps.json
+C:\Sasha\Eltech\.NET Labs\Test\Test\bin\Debug\netstandard1.4\Test.dll
+C:\Sasha\Eltech\.NET Labs\Test\Test\bin\Debug\netstandard1.4\Test.pdb
+C:\Sasha\Eltech\.NET Labs\Test\Test\bin\Debug\netstandard1.4\Tasks.dll
+C:\Sasha\Eltech\.NET Labs\Test\Test\bin\Debug\netstandard1.4\Tasks.pdb
+C:\Sasha\Eltech\.NET Labs\Test\Test\obj\Debug\netstandard1.4\Test.csprojAssemblyReference.cache
+C:\Sasha\Eltech\.NET Labs\Test\Test\obj\Debug\netstandard1.4\Test.csproj.CoreCompileInputs.cache
+C:\Sasha\Eltech\.NET Labs\Test\Test\obj\Debug\netstandard1.4\Test.AssemblyInfo.cs
+C:\Sasha\Eltech\.NET Labs\Test\Test\obj\Debug\netstandard1.4\Test.csproj.CopyComplete
+C:\Sasha\Eltech\.NET Labs\Test\Test\obj\Debug\netstandard1.4\Test.dll
+C:\Sasha\Eltech\.NET Labs\Test\Test\obj\Debug\netstandard1.4\Test.pdb
+C:\Sasha\Eltech\.NET Labs\Test\Test\obj\Debug\netstandard1.4\Test.AssemblyInfoInputs.cache
