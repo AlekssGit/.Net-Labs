@@ -24,7 +24,7 @@ namespace MaskShop.DataAccess.Implementations
 
         public async Task<Category> GetByAsync(ICategoryContainer category)
         {
-            return category.CategoryId.HasValue ? this.Mapper.Map<Category>(await this.Context.Category.FirstOrDefaultAsync(x => x.id == category.CategoryId));
+            return category.CategoryId.HasValue ? this.Mapper.Map<Category>(await this.Context.Category.FirstOrDefaultAsync(x => x.id == category.CategoryId)):null;
         }
     }
 }
