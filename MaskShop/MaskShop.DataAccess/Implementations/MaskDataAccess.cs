@@ -52,7 +52,7 @@ namespace MaskShop.DataAccess.Implementations
 
             await this.context.SaveChangesAsync();
 
-            return this.mapper.Map<MaskShop.Domain.Mask>(result.Entity);
+            return this.mapper.Map<Mask>(result.Entity);
         }
 
         public async Task<MaskShop.Domain.Mask> UpdateAsync(MaskUpdateModel mask)
