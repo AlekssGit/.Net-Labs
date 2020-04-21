@@ -29,7 +29,7 @@ namespace MaskShop.DataAccess.Implementations
                 await this.context.Mask.Include(x => x.Category).ToListAsync());
         }
 
-        public async Task<MaskShop.Domain.Mask> GetASync(IMaskIdentity mask)
+        public async Task<MaskShop.Domain.Mask> GetAsync(IMaskIdentity mask)
         {
             var result = await this.Get(mask);
 

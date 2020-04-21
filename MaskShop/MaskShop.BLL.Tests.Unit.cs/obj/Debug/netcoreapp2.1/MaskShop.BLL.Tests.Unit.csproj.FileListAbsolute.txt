@@ -14,3 +14,14 @@ C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.BLL.Tests.Unit.cs\bin\
 C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.BLL.Tests.Unit.cs\bin\Debug\netcoreapp2.1\MaskShop.BLL.dll
 C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.BLL.Tests.Unit.cs\bin\Debug\netcoreapp2.1\MaskShop.DataAccess.dll
 C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.BLL.Tests.Unit.cs\bin\Debug\netcoreapp2.1\MaskShop.Domain.dll
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.BLL.Tests.Unit.cs\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.BLL.Tests.Unit.cs\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.BLL.Tests.Unit.cs\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.BLL.Tests.Unit.cs\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.BLL.Tests.Unit.cs\bin\Debug\netcoreapp2.1\MaskShop.BLL.Tests.Unit.pdb
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.BLL.Tests.Unit.cs\bin\Debug\netcoreapp2.1\MaskShop.BLL.pdb
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.BLL.Tests.Unit.cs\bin\Debug\netcoreapp2.1\MaskShop.DataAccess.pdb
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.BLL.Tests.Unit.cs\bin\Debug\netcoreapp2.1\MaskShop.Domain.pdb
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.BLL.Tests.Unit.cs\obj\Debug\netcoreapp2.1\MaskShop.BLL.Tests.Unit.csproj.CopyComplete
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.BLL.Tests.Unit.cs\obj\Debug\netcoreapp2.1\MaskShop.BLL.Tests.Unit.dll
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.BLL.Tests.Unit.cs\obj\Debug\netcoreapp2.1\MaskShop.BLL.Tests.Unit.pdb

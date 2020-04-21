@@ -23,7 +23,7 @@ namespace MaskShop.DataAccess.Context
         {
             modelBuilder.Entity<Category>(entity =>
             {
-               entity.Property(e => e.id).UseIdentityColumn().Metadata.SetBeforeSaveBehavior(PropertySaveBehavior.Ignore);
+               //entity.Property(e => e.id).UseIdentityColumn().Metadata.SetBeforeSaveBehavior(PropertySaveBehavior.Ignore);
                 
 
                entity.HasOne(d => d.Parent)
@@ -33,7 +33,7 @@ namespace MaskShop.DataAccess.Context
 
             modelBuilder.Entity<Mask>(entity =>
             {
-                entity.Property(e => e.id).UseIdentityColumn().Metadata.SetBeforeSaveBehavior(PropertySaveBehavior.Ignore);
+                //entity.Property(e => e.id).UseIdentityColumn().Metadata.SetBeforeSaveBehavior(PropertySaveBehavior.Ignore);
                 entity.Property(e => e.name).IsRequired();
                 entity.Property(e => e.price).IsRequired();
 

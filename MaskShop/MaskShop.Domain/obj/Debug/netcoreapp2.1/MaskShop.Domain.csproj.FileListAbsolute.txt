@@ -1,8 +1,10 @@
 C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.Domain\bin\Debug\netcoreapp2.1\MaskShop.Domain.deps.json
 C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.Domain\bin\Debug\netcoreapp2.1\MaskShop.Domain.dll
-C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.Domain\obj\Debug\netcoreapp2.1\MaskShop.Domain.csprojAssemblyReference.cache
 C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.Domain\obj\Debug\netcoreapp2.1\MaskShop.Domain.csproj.CoreCompileInputs.cache
 C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.Domain\obj\Debug\netcoreapp2.1\MaskShop.Domain.AssemblyInfoInputs.cache
 C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.Domain\obj\Debug\netcoreapp2.1\MaskShop.Domain.AssemblyInfo.cs
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.Domain\bin\Debug\netcoreapp2.1\MaskShop.Domain.pdb
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.Domain\obj\Debug\netcoreapp2.1\MaskShop.Domain.dll
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.Domain\obj\Debug\netcoreapp2.1\MaskShop.Domain.pdb
 C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.Domain\bin\Debug\netcoreapp2.1\MaskShop.Domain.runtimeconfig.json
 C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.Domain\bin\Debug\netcoreapp2.1\MaskShop.Domain.runtimeconfig.dev.json

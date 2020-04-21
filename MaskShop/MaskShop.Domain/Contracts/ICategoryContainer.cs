@@ -2,6 +2,6 @@
 {
    public interface ICategoryContainer
     {
-       public int? CategoryId { get; }
+      int? CategoryId { get; }
     }
 }

@@ -3,3 +3,14 @@ C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.BLL\obj\Debug\netcorea
 C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.BLL\obj\Debug\netcoreapp2.1\MaskShop.BLL.csproj.CoreCompileInputs.cache
 C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.BLL\obj\Debug\netcoreapp2.1\MaskShop.BLL.AssemblyInfoInputs.cache
 C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.BLL\obj\Debug\netcoreapp2.1\MaskShop.BLL.AssemblyInfo.cs
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.BLL\bin\Debug\netcoreapp2.1\MaskShop.BLL.deps.json
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.BLL\bin\Debug\netcoreapp2.1\MaskShop.BLL.dll
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.BLL\bin\Debug\netcoreapp2.1\MaskShop.BLL.pdb
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.BLL\bin\Debug\netcoreapp2.1\MaskShop.DataAccess.dll
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.BLL\bin\Debug\netcoreapp2.1\MaskShop.DataAccess.pdb
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.BLL\bin\Debug\netcoreapp2.1\MaskShop.Domain.pdb
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.BLL\obj\Debug\netcoreapp2.1\MaskShop.BLL.csproj.CopyComplete
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.BLL\obj\Debug\netcoreapp2.1\MaskShop.BLL.dll
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.BLL\obj\Debug\netcoreapp2.1\MaskShop.BLL.pdb
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.BLL\bin\Debug\netcoreapp2.1\MaskShop.BLL.runtimeconfig.json
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.BLL\bin\Debug\netcoreapp2.1\MaskShop.BLL.runtimeconfig.dev.json

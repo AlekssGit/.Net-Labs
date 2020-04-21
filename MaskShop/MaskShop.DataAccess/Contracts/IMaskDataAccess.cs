@@ -12,7 +12,7 @@ namespace MaskShop.DataAccess.Contracts
     {
         Task<Mask> InsertAsync(MaskUpdateModel mask);
         Task<IEnumerable<Mask>> GetAsync();
-        Task<Mask> GetASync(IMaskIdentity mask);
+        Task<Mask> GetAsync(IMaskIdentity mask);
         Task<Mask> UpdateAsync(MaskUpdateModel mask);
     }
 }

@@ -3,3 +3,12 @@ C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.DataAccess\obj\Debug\n
 C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.DataAccess\obj\Debug\netcoreapp2.1\MaskShop.DataAccess.csproj.CoreCompileInputs.cache
 C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.DataAccess\obj\Debug\netcoreapp2.1\MaskShop.DataAccess.AssemblyInfoInputs.cache
 C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.DataAccess\obj\Debug\netcoreapp2.1\MaskShop.DataAccess.AssemblyInfo.cs
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.DataAccess\bin\Debug\netcoreapp2.1\MaskShop.DataAccess.deps.json
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.DataAccess\bin\Debug\netcoreapp2.1\MaskShop.DataAccess.dll
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.DataAccess\bin\Debug\netcoreapp2.1\MaskShop.DataAccess.pdb
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.DataAccess\bin\Debug\netcoreapp2.1\MaskShop.Domain.pdb
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.DataAccess\obj\Debug\netcoreapp2.1\MaskShop.DataAccess.csproj.CopyComplete
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.DataAccess\obj\Debug\netcoreapp2.1\MaskShop.DataAccess.dll
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.DataAccess\obj\Debug\netcoreapp2.1\MaskShop.DataAccess.pdb
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.DataAccess\bin\Debug\netcoreapp2.1\MaskShop.DataAccess.runtimeconfig.json
+C:\Sasha\Eltech\.NET Labs\MaskShop .Net\MaskShop\MaskShop.DataAccess\bin\Debug\netcoreapp2.1\MaskShop.DataAccess.runtimeconfig.dev.json
